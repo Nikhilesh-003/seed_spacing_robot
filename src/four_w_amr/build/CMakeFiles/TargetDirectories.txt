@@ -1,0 +1,9 @@
+/home/ferbin/wolf_ws/src/four_w_amr/build/CMakeFiles/uninstall.dir
+/home/ferbin/wolf_ws/src/four_w_amr/build/CMakeFiles/four_w_amr_uninstall.dir
+/home/ferbin/wolf_ws/src/four_w_amr/build/CMakeFiles/test.dir
+/home/ferbin/wolf_ws/src/four_w_amr/build/CMakeFiles/edit_cache.dir
+/home/ferbin/wolf_ws/src/four_w_amr/build/CMakeFiles/rebuild_cache.dir
+/home/ferbin/wolf_ws/src/four_w_amr/build/CMakeFiles/list_install_components.dir
+/home/ferbin/wolf_ws/src/four_w_amr/build/CMakeFiles/install.dir
+/home/ferbin/wolf_ws/src/four_w_amr/build/CMakeFiles/install/local.dir
+/home/ferbin/wolf_ws/src/four_w_amr/build/CMakeFiles/install/strip.dir

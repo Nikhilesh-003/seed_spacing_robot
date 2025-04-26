@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="(empty)"
+	BuildStamp="20240807-0447-Experimental"
+	Name="ferbinspc"
+	Generator="ctest-3.25.1"
+	CompilerName="/usr/bin/c++"
+	CompilerVersion="11.4.0"
+	OSName="Linux"
+	Hostname="ferbinspc"
+	OSRelease="6.8.0-40-generic"
+	OSVersion="#40~22.04.2-Ubuntu SMP PREEMPT_DYNAMIC Thu Jul 18 09:18:31 UTC 2"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="154"
+	ProcessorCacheSize="24576"
+	NumberOfLogicalCPU="16"
+	NumberOfPhysicalCPU="10"
+	TotalVirtualMemory="2047"
+	TotalPhysicalMemory="15677"
+	LogicalProcessorsPerPhysical="1"
+	ProcessorClockFrequency="1295.13"
+	>
+	<Testing>
+		<StartDateTime>Aug 07 10:17 IST</StartDateTime>
+		<StartTestTime>1723006021</StartTestTime>
+		<TestList/>
+		<EndDateTime>Aug 07 10:17 IST</EndDateTime>
+		<EndTestTime>1723006021</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>
